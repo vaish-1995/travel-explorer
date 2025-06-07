@@ -113,7 +113,3 @@ project-root/
 4. CRUD operations via RESTful API
 5. Use of Axios for asynchronous communication
 6. Reasons for choosing Express and MySQL
-# 🧳 SPA for a Travel Agency
-
-> A responsive Single Page Application (SPA) for managing tour packages using Vue.js and Node.js.
-
