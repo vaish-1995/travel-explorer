@@ -102,8 +102,7 @@ project-root/
 
 ### 4.7 GitHub Repository
 
-[https://github.com/vaish-1995/travel-agency-spa](https://github.com/vaish-1995/travel-explorer)
-
+[https://github.com/vaish-1995/travel-explorer]
 ---
 
 ## 5. 🗣️ Oral Presentation Topics
